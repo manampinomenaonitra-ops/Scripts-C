@@ -1,3 +1,0 @@
-git add "Rapports_TPs/RAPPORT.md"
-git commit -m "Ajout du rapport de TP en MarkdowN dans son dossier"
-git push origin main
