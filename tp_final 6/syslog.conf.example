@@ -1,0 +1,7 @@
+############################################################
+# CONFIGURATION POUR LA PARTIE 6 (inetd)
+############################################################
+
+# À ajouter dans /etc/inetd.conf :
+# port   type    protocol  wait    user    programme                arguments
+9998     stream  tcp       nowait  nobody  /home/tovohery/Documents/tp_final/echoserver_inetd  echoserver_inetd
